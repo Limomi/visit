@@ -1,0 +1,145 @@
+*{
+    box-sizing: border-box;
+}
+.header{
+    background-color: rgb(22, 21, 21, 0.788);
+    padding-top: 1%;
+    padding-bottom: 1% ;
+}
+.navbar{
+    max-width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-menu{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    text-align: center;
+}
+.navbar-item{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.navbar-link{
+    text-decoration: none;
+    color: rgb(158, 57, 252);
+    font-size: 180%;
+}
+.logo{
+    text-decoration: none;
+    color: rgb(158, 57, 252);
+    font-size: 210%;
+}
+.first{
+    background-color: rgba(204, 204, 204, 0.788);
+    padding-top: 1%;
+    padding-bottom: 3% ;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h2{
+    color:  rgb(83, 0, 160);
+    font-size: 450%;
+}
+.text{
+    width: 50%;
+}
+.knopka{
+    text-decoration: none;
+    font-size: 200%;
+    background-color: rgb(158, 57, 252);
+    color: rgba(12, 12, 12, 0.788);
+    padding: 2%;
+}
+.i{
+    background-color: rgba(131, 130, 130, 0.788);
+    padding-top: 1%;
+    padding-bottom: 1% ;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.im{
+    color: rgb(0, 0, 0);
+    font-size: 160%;
+    width: 50%;
+}
+.zakaz{
+    background-color: rgba(204, 204, 204, 0.788);
+    padding-top: 1%;
+    padding-bottom: 1% ;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.zakaz_txt{
+    width: 50%;
+}
+.zakaz_text{
+    color: rgb(83, 0, 160);
+    font-size: 160%;
+}
+h3{
+    color: rgb(83, 0, 160);
+    font-size: 240%;
+}
+form{
+    width: 100%;
+}
+.litlle{
+    width: 100%;
+    padding: 3%;
+    color: rgb(83, 0, 160);
+    font-size: 180%;
+}
+button{
+    width: 100%;
+    padding: 3%;
+    color:  rgba(12, 12, 12, 0.788);
+    background-color: rgb(158, 57, 252);
+    font-size: 180%;
+}
+.primer{
+    background-color: rgba(131, 130, 130, 0.788);
+    padding-top: 1%;
+    padding-bottom: 1% ;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sayt_img{
+    width: 50%;
+}
+h1{
+    font-size: 0%;
+}
+.footer{
+    background-color: rgb(22, 21, 21, 0.788);
+    padding-top: 1%;
+    padding-bottom: 1% ;
+}
+.hack{
+     width: 20%;
+}
+.big{
+    width: 30%;
+}
